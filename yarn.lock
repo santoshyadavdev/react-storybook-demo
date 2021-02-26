@@ -1729,7 +1729,7 @@
     eslint-plugin-react-hooks "4.2.0"
     url-loader "^3.0.0"
 
-"@nrwl/storybook@11.4.0", "@nrwl/storybook@^11.4.0":
+"@nrwl/storybook@11.4.0":
   version "11.4.0"
   resolved "https://registry.yarnpkg.com/@nrwl/storybook/-/storybook-11.4.0.tgz#ad21213a7abd7c3a3bde7b9d81fde4f0655dfd29"
   integrity sha512-y0SirpHBtdGNqYN6ub4wKsn4b7gS6kLmKQ8Gvztksnxsmx+Vv5moIeWF+XEtOKAs9VJ2kr1SOvZzAeqJvM0sCQ==
